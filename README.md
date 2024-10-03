@@ -16,7 +16,7 @@
 <h2>Mechanics</h2>
 <h3>Health Point</h3>
 You control a ship where it have a set amount of health. Collide with an enemy will result in loss of 1 HP. 
-![VOID](https://github.com/user-attachments/assets/21f93015-7be7-4bad-82e5-de3f6503a8ff)
+![Screenshot 2024-10-03 123450](https://github.com/user-attachments/assets/02fdecf2-a7f4-48e5-a38b-6f0951a21f87)
 You get an additional HP each time you clear a level.
 The game ends when you your HP equals zero.
 
