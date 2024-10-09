@@ -36,7 +36,6 @@ But, your tank also gain a buff, where its shoot CD is reduced, movement speed i
 The tank has an invisible zone where enemies can't spawn, so the enemies can't immediately collide with player upon spawn.
 
 ![image](https://github.com/user-attachments/assets/5b835490-3ff1-47d7-bf55-2ec17fac952d)
-![image](https://github.com/user-attachments/assets/065fbe3c-eb62-4187-9b81-87f3efdfc1fd)
 
 <a href="https://jeje8.itch.io/void">Play it here</a>
 
