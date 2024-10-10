@@ -25,7 +25,7 @@ The game ends when you your HP equals zero.
 <h3>Level</h3>
 Each level makes the game more difficult.
 
-![Screenshot (516)](https://github.com/user-attachments/assets/2bded401-973f-4be6-9630-f7cf82a8c3e1)
+![VOID level comparison](https://github.com/user-attachments/assets/717be448-b64a-4ed6-a262-7cdda948ef20)
 
 Get to the next level by kill a specific amount of enemy, indicated by the number on the middle where it increases with each level (enemyKillQuota).
 On level up, InreaseDifficulty function is called, where the enemy spawn rate is shorter and enemy speed is faster.
