@@ -19,7 +19,6 @@ You control a ship where it have a set amount of health. Collide with an enemy w
 
 ![VOIDhealthgif](https://github.com/user-attachments/assets/66437e32-a45e-44ca-a8e0-a42cc01a75ac)
 
-
 You get an additional HP each time you clear a level.
 The game ends when you your HP equals zero.
 
@@ -28,7 +27,7 @@ Each level makes the game more difficult.
 
 ![image](https://github.com/user-attachments/assets/88d54245-77f3-4f15-8309-663876bd1d8c)
 
-Get to the next level by kill a specific amount of enemy, where it increases with each level (enemyKillQuota)
+Get to the next level by kill a specific amount of enemy, indicated by the number on the middle where it increases with each level (enemyKillQuota).
 On level up, InreaseDifficulty function is called, where the enemy spawn rate is shorter and enemy speed is faster.
 But, your tank also gain a buff, where its shoot CD is reduced, movement speed is faster, and HP is increased.
 
