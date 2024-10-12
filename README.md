@@ -13,6 +13,14 @@
   VOID is a retro topdown endless shotter where you try to survive a bunch of aliens. The game gets more difficult on each level. Get to the next level by killing a wave of enemies.
 </p>
 
+<h2>Scripts and Features</h2>
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+
 <h2>Mechanics</h2>
 <h3>Health Point</h3>
 You control a ship where it have a set amount of health. Collide with an enemy will result in loss of 1 HP. 
