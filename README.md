@@ -2,12 +2,13 @@
 
 ![VOID](https://github.com/user-attachments/assets/78fe2a2d-7963-4bfc-b5ab-ab75654c1029)
 
-  In a vast void space, you try to survive hordes of aliens' with your spaceship. Each time you kill them, they get stronger and faster. You knew you never had the chance, but you kept going. How many waves can you survive?
+In a vast void space, you try to survive hordes of aliens' with your spaceship. Each time you kill them, they get stronger and faster. You knew you never had the chance, but you kept going. How many waves can you survive?
 
 
 ## About Game
 
-  VOID is a retro topdown endless shotter where you try to survive a bunch of aliens. The game gets more difficult on each level. Get to the next level by killing a wave of enemies.
+VOID is a retro topdown endless shotter where you try to survive a bunch of aliens. The game gets more difficult on each level. Get to the next level by killing a wave of enemies.
+### <a href="https://jeje8.itch.io/void">Play it here</a>
 
 
 ## Mechanics
@@ -42,7 +43,10 @@ The tank has an invisible zone where enemies can't spawn, so the enemies can't i
 | `EnemySpawner.cs` | Controls where the enemy should spawn. |
 | `etc` | |
 
-<a href="https://jeje8.itch.io/void">Play it here</a>
+## Assets
+All the art assets in this game were created by me. The only asset I used from other people is the audio, which can be downloaded from here:
+- Free sfx: freesound.org
+
 
 
 
