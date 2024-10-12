@@ -9,15 +9,6 @@
 
   VOID is a retro topdown endless shotter where you try to survive a bunch of aliens. The game gets more difficult on each level. Get to the next level by killing a wave of enemies.
 
-## Scripts and Features
-| Script | Description |
-| --- | --- |
-| `GameManager.cs` | Manages the game's start and end, as well as the difficulty increase. |
-| `Tank.cs` | Handles the control of the tank: moving, shooting, and taking damage. |
-| `Enemy.cs` | Handles the AI of enemy, mostly on following the tank's movement. |
-| `EnemySpawner.cs` | Controls where the enemy should spawn. |
-| `etc` | |
-
 
 ## Mechanics
 ### Health Point
@@ -41,6 +32,15 @@ But, your tank also gain a buff, where its shoot CD is reduced, movement speed i
 The tank has an invisible zone where enemies can't spawn, so the enemies can't immediately collide with player upon spawn.
 
 ![image](https://github.com/user-attachments/assets/5b835490-3ff1-47d7-bf55-2ec17fac952d)
+
+## Scripts and Features
+| Script | Description |
+| --- | --- |
+| `GameManager.cs` | Manages the game's start and end, as well as the difficulty increase. |
+| `Tank.cs` | Handles the control of the tank: moving, shooting, and taking damage. |
+| `Enemy.cs` | Handles the AI of enemy, mostly on following the tank's movement. |
+| `EnemySpawner.cs` | Controls where the enemy should spawn. |
+| `etc` | |
 
 <a href="https://jeje8.itch.io/void">Play it here</a>
 
